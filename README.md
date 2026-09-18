@@ -5,7 +5,7 @@
 - **CCID:** `<siddh1>`
 
 ## References and Resources
-CMPUT 301 Assignment 0 Instructions
+CMPUT 301 Assignment 0 Instructions,
 ChatGPT to fix testing bugs and issues with AndroidStudio
 
 ## Verbal Collaboration
